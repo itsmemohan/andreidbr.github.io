@@ -6,6 +6,9 @@
 
 ## Docs
 
+### About
+The template is made by [Joel Glovier](https://github.com/jglovier) and customized by [me](https://github.com/andreidbr/).
+
 ### Running locally
 
 To test locally, run the following in your terminal:
