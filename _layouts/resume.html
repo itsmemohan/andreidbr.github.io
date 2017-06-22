@@ -103,27 +103,6 @@
       <!-- end Projects -->
       {% endif %}
 
-
-      {% if site.resume_section_education %}
-      <!-- begin Education -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Education</h2>
-        </header>
-
-        {% for education in site.data.education %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name" id="uniName">{{ education.uni }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ education.degree }}</span><span style="display: block; float:right;">{{ education.year }}</span></h4>
-          <h5 class="resume-item-details" itemprop="description">{{ education.awards }}</h5>
-          <p class="resume-item-copy"  style="clear: both;">{{ education.summary }}</p>
-        </div>
-        {% endfor %}
-      </section>
-      <!-- end Education -->
-      {% endif %}
-
-
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
       <section class="content-section">
@@ -142,6 +121,25 @@
 
       </section>
       <!-- end Recognition -->
+      {% endif %}
+
+      {% if site.resume_section_education %}
+      <!-- begin Education -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Education</h2>
+        </header>
+
+        {% for education in site.data.education %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name" id="uniName">{{ education.uni }}</h3>
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ education.degree }}</span><span style="display: block; float:right;">{{ education.year }}</span></h4>
+          <h5 class="resume-item-details" itemprop="description">{{ education.awards }}</h5>
+          <p class="resume-item-copy"  style="clear: both;">{{ education.summary }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Education -->
       {% endif %}
 
       {% if site.resume_section_associations %}
