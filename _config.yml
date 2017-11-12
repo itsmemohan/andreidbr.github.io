@@ -11,11 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Andrei Dobra"
-resume_title:                   "Technical Writer & QA Enthusiast"
+resume_title:                   "QA Automation Engineer"
 resume_contact_email:           "andrey.dobra@gmail.com"
 resume_header_contact_info:     ""
-resume_header_intro:            "<p>I am a creative person and love expressing myself in English. I am an agile learner and I want to develop my skills in all sorts of challenging situations.
-I enjoy helping others learn and have a passion for troubleshooting all sorts of different problems.</p>"
+resume_header_intro:            "<p>I am a creative person and love exploring systems and applications. I am an agile learner and I want to develop my skills in all sorts of challenging situations.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

@@ -1,16 +1,27 @@
 # Jobs
 # HSBC
+- company: Endava
+  position: QA Automation Engineer
+  duration: Oct, 2017 &mdash; Present
+  summary: I am a Quality Assurance Automation engineer, currently working on front-end and back-end testing for a worldwide payment solutions provider.<ul><li>Develop new and transition old component and component integration tests for back-end systems using Java and TestNG</li><li>Ocassionally develop automated tests for front-end user interface using Selenium and Cucumber</li><li>Develop new features for the back-end testing framework alongside the software engineering team</li><li>Examine back-end systems for vulnerabilities and defects, such as SQL databases or ActiveMQ queues and brokers</li><li>Organized testing efforts for improved visibility and refined existing documentation</li><li>Took the lead on onboarding new joiners and getting them up to speed with procedures, requirements, and tools</li></ul>
+
+# HSBC
+- company: HSBC
+  position: QA Engineer
+  duration: Jan, 2017 &mdash; Oct, 2017
+  summary: I was a Quality Assurance engineer, responsible for testing and analyzing various internal intiatives.<ul><li>Performed manual and automated testing for an internal web application. </li><li>Took ownership of the quality assurance process and translated requirements into test cases that were executed manually, at first, and then automatically through the Selenium framework using the Java language</li><li>Conveyed test results and statistics into easy to comprehend information for stakeholders to increase confidence in the tool</li><li>Came up with suggestions to improve the software development lifecycle of the application, while also acting as the Scrum Master for the team of developers</li><li>Performed data analysis and reconciliation for other financial tools developed internally</li></ul>
+
+# HSBC
 - company: HSBC
   position: Technical Writer
-  duration: Sep, 2016 &mdash; Present
-  summary: I am a technical writer responsible for internal documentation and training author for different initiatives in the large bank.<ul><li>Wrote technical documentation for internal financial systems used by HSBC</li><li>Acted as the bridge between users and the development teams inside HSBC to ensure that the functional and technical documents satisfy and exceed all standards and expectations</li><li>Created and delivered training courses and knowledge workshops for colleagues both locally and throughout Europe on a variety of topics, such as technical and soft skills</li><li>Organized existing documentation and resources found in tools like Confluence or JIRA</li><li>Volunteered and acted as Scrum Master and Quality Assurance analyst for various internal projects</li><li>Operated as local onboarding manager for all new joiners to ensure that they are up to speed and ready for deployment as soon as possible</li></ul>
+  duration: Sep, 2016 &mdash; Oct, 2017
+  summary: I was a technical writer responsible for internal documentation and training author for different initiatives in the large bank.<ul><li>Wrote technical documentation for internal financial systems used by HSBC</li><li>Acted as the bridge between users and the development teams inside HSBC to ensure that the functional and technical documents satisfy and exceed all standards and expectations</li><li>Created and delivered training courses and knowledge workshops for colleagues both locally and throughout Europe on a variety of topics, such as technical and soft skills</li><li>Organized existing documentation and resources found in tools like Confluence or JIRA</li><li>Operated as local onboarding manager for all new joiners to ensure that they are up to speed and ready for deployment as soon as possible</li></ul>
 
 # Misys
 - company: Misys Financial Software
   position: Associate Technical Writer
   duration:  Nov, 2015 &mdash; Sep, 2016
   summary: I acted as a technical writer responsible for many different financial software products developed by Misys.<ul><li>Developed, wrote and maintained end-user, system administration, and developer documentation using tools like Adobe FrameMaker or Microsoft Word</li><li>Maintained Online Help portals, while creating new tutorials and release notes using tools like Adobe RoboHelp</li><li>Interacted with different teams across Misys to ensure user needs are met and surpassed with all releases</li><li>Improved the internal strategy of documentation development and came up with new strategic objectives for the department's development</li><li>Ensured client satisfaction through continuous professional development by understanding the product functionality using interviews with matter experts and personal experience</li></ul>
-
 
 # Softpedia
 - company: Softpedia
