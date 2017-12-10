@@ -1,5 +1,5 @@
 # Site settings
-title: "Andrei Dobra"
+title: "Mohan Murali Kumar"
 description: "My resume created in Jekyll"
 
 # Build settings
@@ -10,11 +10,11 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Andrei Dobra"
-resume_title:                   "QA Automation Engineer"
-resume_contact_email:           "andrey.dobra@gmail.com"
+resume_name:                    "Mohan Murali Kumar"
+resume_title:                   "Vmware and Windows Administrator"
+resume_contact_email:           "itsmemohan@outlook.com"
 resume_header_contact_info:     ""
-resume_header_intro:            "<p>I am a creative person and love exploring systems and applications. I am an agile learner and I want to develop my skills in all sorts of challenging situations.</p>"
+resume_header_intro:            "<p>I love exploring systems and applications. I am an agile learner and I want to develop my skills in all sorts of challenging situations.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,10 +35,10 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_medium_url:            "https://medium.com/@andrey.dobra"
+  resume_medium_url:            "https://medium.com/@itsmemohan"
   resume_linkedin_url:          "https://www.linkedin.com/in/dobraandrei/"
-  resume_github_url:            "https://github.com/andreidbr/"
-  resume_twitter_url:           "https://twitter.com/AndreyDbr"
+  resume_github_url:            "https://github.com/itsmemohan/"
+  resume_twitter_url:           "https://twitter.com/itsmemohan"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "insert website here"
