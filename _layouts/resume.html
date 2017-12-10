@@ -44,17 +44,17 @@
 
       </header>
 
-      {% if site.resume_section_skillset %}
+      {% if site.resume_section_skill %}
       <!-- begin skillset -->
       <section class="content-section">
 
         <header class="section-header">
           <h2>Technical SkillSet</h2>
         </header>
-        {% for skill in site.data.skillset %}
+        {% for skill in site.data.skill %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skillset.skill }}</h4>
-          <p class="resume-item-copy">{{ skillset.description }}</p>
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
 
