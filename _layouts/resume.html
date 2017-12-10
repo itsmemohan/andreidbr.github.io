@@ -44,22 +44,22 @@
 
       </header>
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
+      {% if site.resume_section_skillset %}
+      <!-- begin skillset -->
       <section class="content-section">
 
         <header class="section-header">
           <h2>Skills</h2>
         </header>
-        {% for skill in site.data.skills %}
+        {% for skill in site.data.skillset %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <h4 class="resume-item-details">{{ skillset.skill }}</h4>
+          <p class="resume-item-copy">{{ skillset.description }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Skills -->
+      <!-- end skillset -->
       {% endif %}
 
 
@@ -200,8 +200,7 @@
 
       <footer class="page-footer">
         <p class="footer-line">Original made by <a href="http://twitter.com/jglovier">@jglovier</a>. Edited by <a href="https://github.com/andreidbr/">Andrei Dobra</a>.</p>
-        <p class="footer-line">See how I did it on <a href="https://medium.com/@andrey.dobra/how-to-create-an-online-resume-powered-by-jekyll-and-github-pages-3db3d03ce694">Medium</a>.</p>
-      </footer>
+       </footer>
 
     </div>
 
