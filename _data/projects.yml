@@ -1,12 +1,7 @@
 # Projects
-# JavaScript 30
-- project: JavaScript 30
-  role: Student
-  duration: 2017
-  description: Completed the JavaScript 30 course by Wes Bos. Created 30 different websites using simple JavaScript, CSS, and HTML. View all the pages at <a href="https://andreidbr.github.io/JS30" target=_blank rel="noopener noreferrer">this link</a>.
+# Exchange Server Migration to Office365
+- project: Migration of Users Mailboxes to Office 365
+  role: Member of the Migration team
+  duration: 2015
+  description: Actively engaged in migration of more than 400 mailboxes from Exchange Server 2010 to Office 365 Successfully.
 
-# API Documentation with Swagger UI
-- project: API Documentation with Swagger UI
-  role: Developer & Technical Writer
-  duration: 2017
-  description: Documented a free API using the Swagger specification and Swagger UI template. Performed all necessary tweaks and writing. View it at <a href="https://andreidbr.github.io/dist" target=_blank rel="noopener noreferrer">this link</a>.
